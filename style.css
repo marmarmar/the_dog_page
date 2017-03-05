@@ -1,0 +1,205 @@
+body {
+    background-color: darkorange;
+}
+
+.container
+{
+  display: block;
+  height: auto;
+  position: relative;
+  width: 1080px;
+  margin:auto;
+}
+
+
+.header
+{
+    float: right;
+    height:500px;
+    width: 900px;
+    background-color: black;
+    padding-bottom: 100px;
+}
+
+.before
+{
+    float: left;
+    height:500px;
+    width: 370px;
+    background-color: black;
+    padding-bottom: 90px;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.begin
+{
+    float: left;
+    height:400px;
+    width: 400px;
+    background-color: black;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+
+.now
+{
+    float: left;
+    height:400px;
+    width: 400px;
+    background-color: black;
+    padding-bottom: 140px;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+
+
+.info { 
+    
+    height:200px;
+    width: 900px;
+    background-color: black;
+    color: darkorange;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-top: 120px;
+    line-height: 1.5;
+    text-indent: 40px;
+    line-height: 1.8;
+    
+}
+
+.name
+{
+    float: right;
+    padding-left: 60px;
+    padding-right: 41px;
+    height:800px;
+    width: 79px;
+    background-color: black;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 15px;
+    color: darkorange;
+    padding-bottom: 100px;
+    line-height: 1.25;
+    
+}
+
+.story {
+    color: darkorange;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 23px;
+    text-indent: 40px;
+    background-color: black;
+    height: 900px;
+    width: 850px; 
+    padding-left: 60px;
+    padding-right: 60px;
+    line-height: 1.5;
+
+}
+
+.form {
+    color: darkorange;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 23px;
+    background-color: black;
+    height: 570px;
+    width: 850px; 
+    padding-left: 80px;
+    padding-right: 60px;
+    line-height: 1.7;
+
+}
+
+#subject {
+    width:700px;
+    
+}
+
+#name {
+    width: 350px;
+}
+
+#email {
+    width: 350px;
+}
+
+a
+{
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 20px;
+    color: darkorange;
+    position: absolute;
+    text-decoration: none;
+}
+
+a:hover
+{
+    font-size: larger;
+}
+
+
+.links
+{
+    padding-top: 40px;
+    padding-right: 70px;
+    background-color:black;
+    width: 200px;
+    height: 260px;
+    float: left;
+}
+
+.links1
+{
+    padding-top: 0px;
+    padding-right: 100px;
+    background-color:black;
+    width: 30px;
+    height: 184px;
+    float: left;
+    padding-left: 30px
+}
+
+
+.footer {
+    text-align: inherit;
+    background-color: black;
+    width: 1040px;
+    height: 100px;
+    clear: both;
+    border-top: 0px;
+    padding: 0;
+    list-style: none;
+    height: 70px;
+    padding-right: 40px;
+}
+
+
+.footer1 {
+    text-align: inherit;
+    background-color: black;
+    width: 1080px;
+    height: 100px;
+    clear: both;
+    border-top: 0px;
+    padding: 0;
+    list-style: none;
+    height: 70px;
+    padding-right: 40px;
+}
+
+.companion {
+    color: darkorange;
+    font-family: Impact, Charcoal, sans-serif;
+    font-style: italic;
+    float:right;
+    padding-right: 30px;
+    padding-left: 0px;
+    font-size: 18px;
+    padding-top: 10px;
+    
+}
